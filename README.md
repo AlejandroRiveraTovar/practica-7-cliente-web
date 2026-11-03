@@ -21,9 +21,7 @@ practica-7-cliente-web/
    ```js
    const URL_SERVER = "https://mi-codespace-abc123-3000.app.github.dev/sensores";
    ```
-
-   Si tu API usa otra ruta (por ejemplo `/sensor`), ajústala aquí.
-
+   
 ## Ejecución
 
 En la terminal del codespace de este repositorio:
